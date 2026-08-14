@@ -1,0 +1,6 @@
+{
+  "name": "SocialPublisher",
+  "description": "Upload a video and generate titles and descriptions for Instagram, YouTube, and Facebook using Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
